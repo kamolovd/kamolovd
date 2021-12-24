@@ -4,8 +4,8 @@ Daler Kamolov :)
 
 ### 💻 Cтек технологий:
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-404D59.svg?&style=for-the-badge&logo=html5&logoColor=DD4B25"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-404D59.svg?&style=for-the-badge&logo=css3&logoColor=0396DE"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-404D59.svg?&style=for-the-badge&logo=javascript&logoColor=EFD81D"/> <img alt="React" src="https://img.shields.io/badge/react-404D59.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/react redux-404D59.svg?&style=for-the-badge&logo=redux&logoColor=fff"/> <img alt="Material UI" src="https://img.shields.io/badge/Material UI-404D59.svg?&style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/Material UI-404D59.svg?&style=for-the-badge"/> 
-<img alt="NextJS" src="https://img.shields.io/badge/Material UI-404D59.svg?&style=for-the-badge"/> 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-404D59.svg?&style=for-the-badge&logo=html5&logoColor=DD4B25"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-404D59.svg?&style=for-the-badge&logo=css3&logoColor=0396DE"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-404D59.svg?&style=for-the-badge&logo=javascript&logoColor=EFD81D"/> <img alt="React" src="https://img.shields.io/badge/react-404D59.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/react redux-404D59.svg?&style=for-the-badge&logo=redux&logoColor=fff"/> <img alt="Material UI" src="https://img.shields.io/badge/Material UI-404D59.svg?&style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-404D59.svg?&style=for-the-badge"/> 
+<img alt="NextJS" src="https://img.shields.io/badge/NextJS-404D59.svg?&style=for-the-badge"/> 
 
 ### 🔧 Мои инструменты:
 
