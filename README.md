@@ -12,8 +12,8 @@ Daler Kamolov :)
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-404D59.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=0174B4"/> <img alt="Git" src="https://img.shields.io/badge/git-404D59.svg?&style=for-the-badge&logo=git&logoColor=E84E31"/> <img alt="Figma" src="https://img.shields.io/badge/figma-404D59.svg?&style=for-the-badge&logo=figma&logoColor=0AC97F"/>
 
 <div style="display: flex;">
- <p width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kamolov-Daler&show_icons=true&hide_title=true" alt="Kamolov-Daler" /></p> 
-<p  width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamolov-Daler" alt="Kamolov-Daler" /></p>
+ <div width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kamolov-Daler&show_icons=true&hide_title=true" alt="Kamolov-Daler"></div> 
+<div  width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamolov-Daler" alt="Kamolov-Daler" /></div>
 </div>
 
 
