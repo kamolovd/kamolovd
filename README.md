@@ -10,3 +10,14 @@ Daler Kamolov :)
 ### 🔧 Инструменты:
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-404D59.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=0174B4"/> <img alt="Git" src="https://img.shields.io/badge/git-404D59.svg?&style=for-the-badge&logo=git&logoColor=E84E31"/> <img alt="Figma" src="https://img.shields.io/badge/figma-404D59.svg?&style=for-the-badge&logo=figma&logoColor=0AC97F"/>
+
+<p width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KamolovD&show_icons=true&hide_title=true" alt="KamolovD" /></p> <br>
+<p  width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamolovD" alt="KamolovD" /></p>
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NekruzRakhimov&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NekruzRakhimov&repo=convoychat" />
+</a>
+ -->
