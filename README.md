@@ -4,7 +4,7 @@ Daler Kamolov
 
 ### 💻 Cтек технологий:
 
-<div style="display: 'flex'; flex-wrap: 'wrap'; gap:'10px';border:'1px solid black';">
+<div style="display: 'flex'; flex-wrap: 'wrap'; border:'1px solid black';">
  <img alt="HTML" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" width="100" height="100"/> 
  <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100" height="100"/> 
  <img alt="JS" src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png" width="100" height="100"/> 
