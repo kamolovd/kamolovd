@@ -1,7 +1,7 @@
 
  [<img alt="Telegram" src="https://img.shields.io/badge/@kamolovd-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/kamolovd) 
 
-### 💻 Cтек технологий:
+### 💻 Cтек технологий: Front-End
 
 <div>
   <img alt="HTML" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" width="100" height="100";"/> &nbsp;
