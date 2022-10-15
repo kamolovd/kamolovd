@@ -9,7 +9,11 @@ Daler Kamolov
  <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100" height="100"/> 
  <img alt="JS" src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png" width="100" height="100"/> 
  <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100" />
+ <img alt="Redux" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="100" height="100" />
+ <img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" height="100" />
  <img alt="NextJS" src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" width="100" height="100"/> 
+ <img alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="100" height="100" />
+ <img alt="React-testing-library" src="https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg" width="100" height="100" />
 </div>
 
 ### 🔧 Инструменты:
