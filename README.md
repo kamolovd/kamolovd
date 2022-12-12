@@ -9,6 +9,7 @@
   <img alt="JS" src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png" width="100" height="100"/> &nbsp;
   <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100" /> &nbsp;
   <img alt="Redux" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="100" height="100" /> &nbsp;
+  <img alt="Angular" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100" height="100" /> &nbsp;
   <img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" height="100" /> &nbsp;
   <img alt="NextJS" src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" width="100" height="100"/>  &nbsp;
   <img alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="100" height="100" /> &nbsp;
