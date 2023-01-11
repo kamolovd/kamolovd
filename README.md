@@ -17,6 +17,7 @@
   <img alt="Bootstrap" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="70" height="70" /> &nbsp;&nbsp;
   <img alt="Material UI" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="70" height="70" /> &nbsp;&nbsp;
   <img alt="Ant Design" src="https://fac.feffery.tech/assets/imgs/antd-logo.svg" width="70" height="70" /> &nbsp;&nbsp;
+  <img alt="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="70" height="70" /> &nbsp;&nbsp;
 </div>
 
 ### 🔧 Инструменты:
