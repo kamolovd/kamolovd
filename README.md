@@ -4,5 +4,5 @@
 [<img alt="LeetCode" src="https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=2CA5E0" />](https://linkedin.com/in/kamolovd) 
 
 
-![LeetCode](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode&query=$.solved&url=https%3A%2F%2Fleetcode.com%2Fkamolovd%2F)
+![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=kamolovd&color=blue&logo=leetcode)
 
