@@ -4,4 +4,4 @@
 [<img alt="LeetCode" src="https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=2CA5E0" />](https://linkedin.com/in/kamolovd) 
 
 
-![LeetCode Stats](https://leetcode-stats-pi.vercel.app/api?username=your_username)
+![LeetCode Stats](https://leetcode-stats-pi.vercel.app/api?username=kamolovd)
