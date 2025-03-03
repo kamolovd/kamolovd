@@ -4,5 +4,3 @@
 [<img alt="LeetCode" src="https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=2CA5E0" />](https://linkedin.com/in/kamolovd) 
 
 
-![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=kamolovd&color=blue&logo=leetcode)
-
