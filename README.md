@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer)](https://git.io/typing-svg)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamolovd)](https://github.com/kamolovd/kamolovd)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamolovd)](https://github.com/kamolovd/kamolovd)
